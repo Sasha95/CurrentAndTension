@@ -1,0 +1,30 @@
+D:\C# прримеры\PWM\PWM\bin\Debug\PWM.exe.config
+D:\C# прримеры\PWM\PWM\obj\Debug\PWM.csprojResolveAssemblyReference.cache
+D:\C# прримеры\PWM\PWM\obj\Debug\PWM.Properties.Resources.resources
+D:\C# прримеры\PWM\PWM\obj\Debug\PWM.csproj.GenerateResource.Cache
+D:\C# прримеры\PWM\PWM\bin\Debug\PWM.exe
+D:\C# прримеры\PWM\PWM\bin\Debug\PWM.pdb
+D:\C# прримеры\PWM\PWM\obj\Debug\PWM.exe
+D:\C# прримеры\PWM\PWM\obj\Debug\PWM.pdb
+D:\C# прримеры\PWM\PWM\obj\Debug\PWM.MainForm.resources
+C:\Users\DEMON\Desktop\PWM 2 канала\PWM\PWM\bin\Debug\PWM.exe.config
+C:\Users\DEMON\Desktop\PWM 2 канала\PWM\PWM\obj\Debug\PWM.exe
+C:\Users\DEMON\Desktop\PWM 2 канала\PWM\PWM\obj\Debug\PWM.pdb
+C:\Users\DEMON\Desktop\PWM 2 канала\PWM\PWM\obj\Debug\PWM.csprojResolveAssemblyReference.cache
+C:\Users\DEMON\Desktop\PWM 2 канала\PWM\PWM\obj\Debug\PWM.MainForm.resources
+C:\Users\DEMON\Desktop\PWM 2 канала\PWM\PWM\obj\Debug\PWM.Properties.Resources.resources
+C:\Users\DEMON\Desktop\PWM 2 канала\PWM\PWM\obj\Debug\PWM.csproj.GenerateResource.Cache
+C:\Users\DEMON\Desktop\PWM 2 канала\PWM\PWM\bin\Debug\PWM.exe
+C:\Users\DEMON\Desktop\PWM 2 канала\PWM\PWM\bin\Debug\PWM.pdb
+D:\Оружие\Микроконтролеры\PWM 2 канала\PWM\PWM\bin\Debug\PWM.exe.config
+D:\Оружие\Микроконтролеры\PWM 2 канала\PWM\PWM\obj\Debug\PWM.exe
+D:\Оружие\Микроконтролеры\PWM 2 канала\PWM\PWM\obj\Debug\PWM.pdb
+D:\Оружие\Микроконтролеры\PWM 2 канала\PWM\PWM\bin\Debug\PWM.exe
+D:\Оружие\Микроконтролеры\PWM 2 канала\PWM\PWM\bin\Debug\PWM.pdb
+D:\Оружие\Микроконтролеры\PWM 2 канала\PWM\PWM\obj\Debug\PWM.csprojResolveAssemblyReference.cache
+D:\Оружие\Микроконтролеры\PWM 2 канала\PWM\PWM\obj\Debug\PWM.MainForm.resources
+D:\Оружие\Микроконтролеры\PWM 2 канала\PWM\PWM\obj\Debug\PWM.Properties.Resources.resources
+D:\Оружие\Микроконтролеры\PWM 2 канала\PWM\PWM\obj\Debug\PWM.csproj.GenerateResource.Cache
+D:\C# прримеры\PWM 2 канала (ток и напряжение)\PWM\PWM\bin\Debug\PWM.exe.config
+D:\C# прримеры\PWM 2 канала (ток и напряжение)\PWM\PWM\obj\Debug\PWM.exe
+D:\C# прримеры\PWM 2 канала (ток и напряжение)\PWM\PWM\obj\Debug\PWM.pdb

@@ -1,0 +1,6 @@
+D:\C# прримеры\PWM\PWM\bin\NoPort\PWM.exe.config
+D:\C# прримеры\PWM\PWM\bin\NoPort\PWM.exe
+D:\C# прримеры\PWM\PWM\obj\NoPort\PWM.MainForm.resources
+D:\C# прримеры\PWM\PWM\obj\NoPort\PWM.Properties.Resources.resources
+D:\C# прримеры\PWM\PWM\obj\NoPort\PWM.csproj.GenerateResource.Cache
+D:\C# прримеры\PWM\PWM\obj\NoPort\PWM.exe

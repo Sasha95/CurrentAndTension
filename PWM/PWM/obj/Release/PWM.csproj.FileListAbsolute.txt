@@ -1,0 +1,9 @@
+D:\C# прримеры\PWM\PWM\bin\Release\PWM.exe.config
+D:\C# прримеры\PWM\PWM\bin\Release\PWM.exe
+D:\C# прримеры\PWM\PWM\bin\Release\PWM.pdb
+D:\C# прримеры\PWM\PWM\obj\Release\PWM.MainForm.resources
+D:\C# прримеры\PWM\PWM\obj\Release\PWM.Properties.Resources.resources
+D:\C# прримеры\PWM\PWM\obj\Release\PWM.csproj.GenerateResource.Cache
+D:\C# прримеры\PWM\PWM\obj\Release\PWM.exe
+D:\C# прримеры\PWM\PWM\obj\Release\PWM.pdb
+D:\C# прримеры\PWM\PWM\obj\Release\PWM.csprojResolveAssemblyReference.cache
